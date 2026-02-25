@@ -1,0 +1,9 @@
+id_venda;produto;categoria;preco_venda;custo;margem_bruta;data_venda;preco_concorrente_min;preco_concorrente_max;preco_concorrente_medio;posicao_mercado
+V-001;Notebook ProMax 15;Eletrônicos;4899.9;3200.0;34.7;2024-10-05;4650.0;5100.0;4849.97;acima
+V-002;Cadeira Ergonômica X1;Mobiliário;1249.5;870.3;30.3;2024-10-12;1190.0;1300.0;1245.0;acima
+V-003;"Monitor UltraWide 34""";Eletrônicos;3150.0;2410.0;23.5;2024-11-03;2999.9;3200.0;3099.97;acima
+V-004;Teclado Mecânico RGB;Periféricos;459.9;198.5;56.8;2024-11-18;440.0;499.9;469.97;abaixo
+V-005;Mesa Ajustável Stand;Mobiliário;2780.0;1950.0;29.9;2024-11-22;2650.0;2900.0;2775.0;acima
+V-006;Webcam HD Pro;Periféricos;389.0;215.0;44.7;2024-12-01;370.0;410.0;393.3;abaixo
+V-007;Notebook ProMax 15;Eletrônicos;4750.0;3200.0;32.6;2024-12-10;4650.0;5100.0;4849.97;abaixo
+V-008;Headset Gamer 7.1;Periféricos;699.9;340.0;51.4;2024-12-15;680.0;720.0;700.0;abaixo
