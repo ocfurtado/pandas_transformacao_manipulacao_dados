@@ -1,6 +1,6 @@
 id_cliente;razao_social;cnpj;endereco_completo;email_contato;tags_servico;valor_contrato_mensal
 C-001;  TECH SOLUTIONS LTDA  ;12.345.678/0001-90;Rua das Flores, 123 - Sala 45 - Centro - São Paulo - SP - 01234-567;CONTATO@techsolutions.COM.BR;consultoria, implantação/ suporte ;R$ 15.750,00
-C-002;green energy S.A.;98765432000155;Av. Brasil, 4500 - Bloco B - Asa Norte - Brasília - DF - 70000-000;vendas@greenenergy.com.br;energia solar/ manutenção projetos;R$ 42.000,00
+C-002;green energy S.A.;98765432000155;Av. Brasil, 4500 - Bloco B - Asa Norte - Brasília - DF - 70000-000;vendas@greenenergy.com.br;"energia solar/ manutenção; projetos";R$ 42.000,00
 C-003;  Alfa & Beta Consultores Associados;11.222.333/0001-44;Travessa do Comércio, 78 - Sala 12 - Recife Antigo - Recife - PE - 50030-210;alfa.beta@consultores.com.br;auditoria, compliance/consultoria tributária;R$ 8.900,00
-C-004;INDÚSTRIA METALÚRGICA NORTE LTDA;55.666.777/0001-88;Rod. BR-101, Km 42 - Galpão 7 - Distrito Industrial - Manaus - AM - 69075-000;financeiro@METALURGICA-NORTE.com.br;usinagem soldagem /montagem industrial, logística;R$ 127.300,00
+C-004;INDÚSTRIA METALÚRGICA NORTE LTDA;55.666.777/0001-88;Rod. BR-101, Km 42 - Galpão 7 - Distrito Industrial - Manaus - AM - 69075-000;financeiro@METALURGICA-NORTE.com.br;"usinagem; soldagem /montagem industrial, logística";R$ 127.300,00
 C-005;  pharma VIDA distribuidora  ;  33444555000199  ;Rua Sete de Setembro, 2200 - Andar 8 - Centro - Curitiba - PR - 80060-070;contato@pharmavida.com.br;distribuição, armazenagem/ logística farmacêutica ;R$ 63.450,00

@@ -1,0 +1,6 @@
+id_cliente;razao_social;cnpj;email_contato;email_valido;tags_servico;valor_contrato_mensal;logradouro;complemento;bairro;cidade;uf;cep
+C-001;Tech Solutions LTDA;12.345.678/0001-90;contato@techsolutions.com.br;True;consultoria|implantação|suporte;15750.0;Rua das Flores, 123;Sala 45;Centro;São Paulo;SP;01234-567
+C-002;Green Energy S.A.;98.765.432/0001-55;vendas@greenenergy.com.br;True;energia solar|manutenção|projetos;42000.0;Av. Brasil, 4500;Bloco B;Asa Norte;Brasília;DF;70000-000
+C-003;Alfa & Beta Consultores Associados;11.222.333/0001-44;alfa.beta@consultores.com.br;True;auditoria|compliance|consultoria tributária;8900.0;Travessa do Comércio, 78;Sala 12;Recife Antigo;Recife;PE;50030-210
+C-004;Indústria Metalúrgica Norte LTDA;55.666.777/0001-88;financeiro@metalurgica-norte.com.br;True;usinagem|soldagem|montagem industrial|logística;127300.0;Rod. BR-101, Km 42;Galpão 7;Distrito Industrial;Manaus;AM;69075-000
+C-005;Pharma Vida Distribuidora;33.444.555/0001-99;contato@pharmavida.com.br;True;distribuição|armazenagem|logística farmacêutica;63450.0;Rua Sete de Setembro, 2200;Andar 8;Centro;Curitiba;PR;80060-070
