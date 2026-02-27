@@ -1,0 +1,8 @@
+id_entrega;cliente;rota;data_pedido;data_entrega;tempo_transporte;peso_kg;valor_frete;status_entrega
+E-001;MAGAZINE CENTRAL LTDA;São Paulo/SP -> Curitiba/PR;15/03/2024;2024-03-18;3 dias e 4 horas;1250,5;R$ 3.890,00;ENTREGUE - sem ocorrências
+E-002;TECH STORE ME;Rio de Janeiro/RJ -> Belo Horizonte/MG;2024/04/02;05-04-2024;2 dias e 18 horas;780,0;R$ 2.150,75;ENTREGUE - com atraso de 6h
+E-003;Distribuidora Nordeste S.A.;Recife/PE -> Salvador/BA;28/04/2024;2024-05-01;2 dias e 12 horas;2100,8;R$ 5.420,00;ENTREGUE - sem ocorrências
+E-004;AUTO PEÇAS REGIONAL LTDA;Manaus/AM -> Belém/PA;2024/05/10;15-05-2024;4 dias e 22 horas;3500,0;R$ 12.750,30;ENTREGUE - com avaria parcial
+E-005;pharma express distribuidora;Curitiba/PR -> Florianópolis/SC;20/06/2024;2024-06-21;1 dia e 8 horas;420,3;R$ 1.280,00;ENTREGUE - sem ocorrências
+E-006;MEGA ATACADO EIRELI;Porto Alegre/RS -> São Paulo/SP;2024/07/15;19-07-2024;3 dias e 16 horas;1890,0;R$ 4.670,50;ENTREGUE - com atraso de 12h
+E-007;Casa & Construção Materiais;Brasília/DF -> Goiânia/GO;01/08/2024;2024-08-02;1 dia e 14 horas;960,7;R$ 1.950,00;ENTREGUE - sem ocorrências
